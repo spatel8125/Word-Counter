@@ -1,10 +1,10 @@
-# Word Counter
+# 📄 Word Counter
 
-## Description
+## 📖 Description
 
 A simple Python program that reads a text file and displays useful statistics.
 
-## Features
+## ✨ Features
 
 - Read a text file
 - Count total characters
@@ -12,11 +12,11 @@ A simple Python program that reads a text file and displays useful statistics.
 - Count total lines
 - Count total sentences
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 Word-Counter/
@@ -24,10 +24,12 @@ Word-Counter/
 ├── word_counter.py
 ├── sample.txt
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── screenshots/
+    └── output.png
 ```
 
-## How to Run
+## ▶️ How to Run
 
 1. Open the project folder.
 2. Open the terminal.
@@ -37,7 +39,7 @@ Word-Counter/
 python word_counter.py
 ```
 
-## Sample Output
+## 💻 Sample Output
 
 ```
 ===== Report =====
@@ -48,6 +50,10 @@ Total Lines      : 7
 Total Sentences  : 4
 ```
 
-## Author
+## 📸 Output Screenshot
 
-Shaili Patel
+![Program Output](screenshots/output.png)
+
+## 👩‍💻 Author
+
+**Shaili Patel**
